@@ -34,6 +34,11 @@ Personal Portfolio App adalah website portfolio pribadi yang dikembangkan secara
 
 ![Wireframe Portfolio](img/Sketsa.png)
 
+## Desin Figma
+![Desigb About](img/desain_about.JPG)
+![Design Contact](img/desain_contact.JPG)
+- Figma Design: https://www.figma.com/design/m2aMyvNrR6CXvYD4E0W29I/Personal-Portfolio-App?node-id=0-1&t=msVaMFtqkDzXr3v2-1
+
 ## Author
 
 Rayhan Ghiffari
