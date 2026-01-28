@@ -12,7 +12,7 @@ Personal Portfolio App adalah website portfolio pribadi yang dikembangkan secara
 ## Roadmap Pengembangan
 
 - [x] Konsep dan Wireframe
-- [ ] Desain UI (Figma)
+- [x] Desain UI (Figma)
 - [ ] HTML, CSS (Statis)
 - [ ] Slicin UI (Tailwind CSS)
 - [ ] Javascript (Interaltif)
